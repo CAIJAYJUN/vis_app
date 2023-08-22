@@ -1,0 +1,3 @@
+pandas
+pyvis
+plotly==5.16.1
